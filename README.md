@@ -1,10 +1,11 @@
 Hi, I’m Karla 👋
 
-🧬 I'm a PhD candidate and an Early Stage Researcher from MSCA network.
+🧬 I'm a Postdoc, former PhD of the Early Stage Researcher from the MSCA network.
 
 - 👀 I’m interested in science, mainly genomics, bioinformatics, transcriptomics, personalized medicine and neuroscience
-- 🌱 I’m currently learning to code in R and Bash and bioinformatics applied to eye research
-- 📫 You can reach me by email or twitter :)
+- 🌱 I’m currently learning to code in Python and SQL.
+- I'm fluent in programming in R and Bash.
+- 📫 You can reach me by email :)
 - 📷 Amateur photographer 
 
 <!---
